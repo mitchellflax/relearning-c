@@ -1,13 +1,9 @@
 #include <stdio.h>
 
-#define IN	1
-#define OUT 0
-
 int main()
 {
-	int i, j, inp, state, currentWordLen, maxWordLen;
+	int i, j, inp, currentWordLen, maxWordLen;
 	currentWordLen = 0;
-	state = OUT;
 
 	/* histogram goes to 12, if there are words longer than that, they aren't going in */
 	maxWordLen = 12;
