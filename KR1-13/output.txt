@@ -1,0 +1,5705 @@
+inp: #
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: c
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: l
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: u
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp: e
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 0 0 0 0 0 0 0 0 0 0 0 0
+inp:  
+currentWordLen before eval: 8
+currentWordLen after eval: 0
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: s
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: d
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: o
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: .
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: h
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: >
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 0 0 0 0 0 0 0 1 0 0 0 0
+inp: 
+
+currentWordLen before eval: 9
+currentWordLen after eval: 0
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: #
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: f
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp: e
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 0 0 0 0 0 0 0 1 1 0 0 0
+inp:  
+currentWordLen before eval: 7
+currentWordLen after eval: 0
+ 0 0 0 0 0 0 1 1 1 0 0 0
+inp: I
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 0 0 0 0 0 0 1 1 1 0 0 0
+inp: N
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 0 0 0 0 0 0 1 1 1 0 0 0
+inp: 	
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 0 1 0 0 0 0 1 1 1 0 0 0
+inp: 1
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 0 1 0 0 0 0 1 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: #
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: f
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp: e
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 1 1 0 0 0 0 1 1 1 0 0 0
+inp:  
+currentWordLen before eval: 7
+currentWordLen after eval: 0
+ 1 1 0 0 0 0 2 1 1 0 0 0
+inp: O
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 1 1 0 0 0 0 2 1 1 0 0 0
+inp: U
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 1 1 0 0 0 0 2 1 1 0 0 0
+inp: T
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 1 1 0 0 0 0 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 1 1 1 0 0 0 2 1 1 0 0 0
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 1 1 1 0 0 0 2 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 2 1 1 0 0 0 2 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 2 1 1 0 0 0 2 1 1 0 0 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 2 1 1 0 0 0 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 2 1 1 0 0 0 2 1 1 0 0 0
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 2 1 1 0 0 0 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: (
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: )
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 2 1 2 0 0 0 2 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 2 1 2 0 0 1 2 1 1 0 0 0
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 2 1 2 0 0 1 2 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 3 1 2 0 0 1 2 1 1 0 0 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 3 1 2 0 0 1 2 1 1 0 0 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 1 2 0 0 1 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 1 2 0 0 1 2 1 1 0 0 0
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 1 2 0 0 1 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 3 1 3 0 0 1 2 1 1 0 0 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 1 3 0 0 1 2 1 1 0 0 0
+inp: ,
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 1 3 0 0 1 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 3 2 3 0 0 1 2 1 1 0 0 0
+inp: j
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 2 3 0 0 1 2 1 1 0 0 0
+inp: ,
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 2 3 0 0 1 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 3 3 3 0 0 1 2 1 1 0 0 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 0 0 1 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 3 3 0 0 1 2 1 1 0 0 0
+inp: p
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 3 3 0 0 1 2 1 1 0 0 0
+inp: ,
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 3 3 3 0 0 1 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: s
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: t
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 3 3 3 1 0 1 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: ,
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp:  
+currentWordLen before eval: 15
+currentWordLen after eval: 0
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: ;
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 3 3 3 1 0 2 2 1 1 0 0 0
+inp: 
+
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 14
+currentWordLen after eval: 0
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 3 3 3 1 0 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 4 3 3 1 0 2 2 1 1 0 1 0
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 4 3 3 1 0 2 2 1 1 0 1 0
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 4 3 3 1 0 2 2 1 1 0 1 0
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: s
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: t
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 4 4 3 1 0 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 4 4 3 1 1 2 2 1 1 0 1 0
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 4 4 3 1 1 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 5 4 3 1 1 2 2 1 1 0 1 0
+inp: O
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 4 3 1 1 2 2 1 1 0 1 0
+inp: U
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 4 3 1 1 2 2 1 1 0 1 0
+inp: T
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 4 3 1 1 2 2 1 1 0 1 0
+inp: ;
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 4 3 1 1 2 2 1 1 0 1 0
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 5 4 3 2 1 2 2 1 1 0 1 0
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 5 4 3 2 1 2 2 1 1 0 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 5 4 3 2 1 2 2 1 1 0 1 0
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 4 3 2 1 2 2 1 1 0 1 0
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 4 3 2 1 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: h
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: s
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: g
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: r
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: a
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp: m
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 5 5 3 2 1 2 2 1 1 0 1 0
+inp:  
+currentWordLen before eval: 9
+currentWordLen after eval: 0
+ 5 5 3 2 1 2 2 1 2 0 1 0
+inp: g
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 5 3 2 1 2 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 5 3 2 1 2 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 5 3 2 1 2 2 1 2 0 1 0
+inp: s
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 5 3 2 1 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 5 5 3 3 1 2 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 5 3 3 1 2 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 5 3 3 1 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 5 6 3 3 1 2 2 1 2 0 1 0
+inp: 1
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 6 3 3 1 2 2 1 2 0 1 0
+inp: 2
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 6 3 3 1 2 2 1 2 0 1 0
+inp: ,
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 6 3 3 1 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 5 6 4 3 1 2 2 1 2 0 1 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 6 4 3 1 2 2 1 2 0 1 0
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 6 4 3 1 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 4 3 1 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 5 7 4 3 2 2 2 1 2 0 1 0
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 4 3 2 2 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 4 3 2 2 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 4 3 2 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp: d
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp: s
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 5 3 2 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 5 7 5 3 3 2 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 5 7 5 3 3 3 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 3 3 3 2 1 2 0 1 0
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 3 3 3 2 1 2 0 1 0
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 3 3 3 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 3 3 3 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp: ,
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 5 4 3 3 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 5 7 5 4 4 3 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 4 4 3 2 1 2 0 1 0
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 4 4 3 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 4 4 3 2 1 2 0 1 0
+inp: y
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 4 4 3 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: '
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp: t
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 5 7 5 5 4 3 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp: g
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp: g
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 7 5 5 4 4 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 5 7 5 5 5 4 2 1 2 0 1 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 7 5 5 5 4 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 7 5 5 5 4 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 5 8 5 5 5 4 2 1 2 0 1 0
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 8 5 5 5 4 2 1 2 0 1 0
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 8 5 5 5 4 2 1 2 0 1 0
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 5 9 5 5 5 4 2 1 2 0 1 0
+inp:  
+currentWordLen before eval: 10
+currentWordLen after eval: 0
+ 5 9 5 5 5 4 2 1 2 1 1 0
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 5 9 5 5 5 4 2 1 2 1 1 0
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 6 9 5 5 5 4 2 1 2 1 1 0
+inp: 1
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 9 5 5 5 4 2 1 2 1 1 0
+inp: 2
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 9 5 5 5 4 2 1 2 1 1 0
+inp: ;
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 9 5 5 5 4 2 1 2 1 1 0
+inp: 
+
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 6 9 6 5 5 4 2 1 2 1 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 6 9 6 5 5 4 2 1 2 1 1 0
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 9 6 5 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 9 6 5 5 4 2 1 2 1 1 0
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 9 6 5 5 4 2 1 2 1 1 0
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: m
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: a
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: x
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: W
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: o
+currentWordLen before eval: 17
+currentWordLen after eval: 18
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: r
+currentWordLen before eval: 18
+currentWordLen after eval: 19
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: d
+currentWordLen before eval: 19
+currentWordLen after eval: 20
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: L
+currentWordLen before eval: 20
+currentWordLen after eval: 21
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: e
+currentWordLen before eval: 21
+currentWordLen after eval: 22
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 22
+currentWordLen after eval: 23
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: ]
+currentWordLen before eval: 23
+currentWordLen after eval: 24
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: ;
+currentWordLen before eval: 24
+currentWordLen after eval: 25
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: 
+
+currentWordLen before eval: 25
+currentWordLen after eval: 0
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 9 7 5 5 4 2 1 2 1 1 0
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 6 10 7 5 5 4 2 1 2 1 1 0
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 5 5 4 2 1 2 1 1 0
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 10 7 5 5 4 2 1 2 1 1 0
+inp: l
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 10 7 5 5 4 2 1 2 1 1 0
+inp: l
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 10 7 5 5 4 2 1 2 1 1 0
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 6 10 7 6 5 4 2 1 2 1 1 0
+inp:  
+currentWordLen before eval: 12
+currentWordLen after eval: 0
+ 6 10 7 6 5 4 2 1 2 1 1 1
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 6 5 4 2 1 2 1 1 1
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 10 7 6 5 4 2 1 2 1 1 1
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 10 7 6 5 4 2 1 2 1 1 1
+inp: h
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 10 7 6 5 4 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: z
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: o
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: s
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 6 10 7 7 5 4 2 1 2 1 1 1
+inp: 
+
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: (
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 6 10 7 7 5 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 6 10 7 7 6 5 2 1 2 1 1 1
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 6 10 7 7 6 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 7 10 7 7 6 5 2 1 2 1 1 1
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 7 10 7 7 6 5 2 1 2 1 1 1
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 7 10 7 7 6 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 7 11 7 7 6 5 2 1 2 1 1 1
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 7 11 7 7 6 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 8 11 7 7 6 5 2 1 2 1 1 1
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 8 11 7 7 6 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp: ;
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 9 11 7 7 6 5 2 1 2 1 1 1
+inp:  
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 9 11 7 7 6 5 2 1 2 1 2 1
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 9 11 7 7 6 5 2 1 2 1 2 1
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 9 11 7 7 6 5 2 1 2 1 2 1
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 9 11 7 7 6 5 2 1 2 1 2 1
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 9 11 7 7 6 5 2 1 2 1 2 1
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: i
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: ]
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 15
+currentWordLen after eval: 0
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 9 11 7 8 6 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 10 11 7 8 6 5 2 1 2 1 2 1
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 11 7 8 6 5 2 1 2 1 2 1
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 11 7 8 6 5 2 1 2 1 2 1
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 12 7 8 6 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp: b
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp: l
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp: d
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 10 13 7 8 6 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 10 13 7 8 7 5 2 1 2 1 2 1
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 13 7 8 7 5 2 1 2 1 2 1
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 13 7 8 7 5 2 1 2 1 2 1
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 10 13 7 8 7 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp: a
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp: y
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 10 13 8 8 7 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 10 13 8 8 8 5 2 1 2 1 2 1
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 13 8 8 8 5 2 1 2 1 2 1
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 13 8 8 8 5 2 1 2 1 2 1
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: l
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: (
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: i
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: n
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp: p
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 10 14 8 8 8 5 2 1 2 1 2 1
+inp:  
+currentWordLen before eval: 10
+currentWordLen after eval: 0
+ 10 14 8 8 8 5 2 1 2 2 2 1
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 10 14 8 8 8 5 2 1 2 2 2 1
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: g
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: c
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: h
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: a
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: r
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: (
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: )
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp: )
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 11 14 8 8 8 5 2 1 2 2 2 1
+inp:  
+currentWordLen before eval: 10
+currentWordLen after eval: 0
+ 11 14 8 8 8 5 2 1 2 3 2 1
+inp: !
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 11 14 8 8 8 5 2 1 2 3 2 1
+inp: =
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 11 14 8 8 8 5 2 1 2 3 2 1
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 11 15 8 8 8 5 2 1 2 3 2 1
+inp: E
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 11 15 8 8 8 5 2 1 2 3 2 1
+inp: O
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 11 15 8 8 8 5 2 1 2 3 2 1
+inp: F
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 11 15 8 8 8 5 2 1 2 3 2 1
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 11 15 8 8 8 5 2 1 2 3 2 1
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 11 15 8 9 8 5 2 1 2 3 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 11 15 8 9 8 5 2 1 2 3 2 1
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 11 15 8 9 8 5 2 1 2 3 2 1
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 12 15 8 9 8 5 2 1 2 3 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 15 8 9 8 5 2 1 2 3 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 15 8 9 8 5 2 1 2 3 2 1
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 15 8 9 8 5 2 1 2 3 2 1
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 15 8 9 8 5 2 1 2 3 2 1
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: d
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: b
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: u
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: g
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: g
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: i
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: n
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: g
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 12 16 8 9 8 5 2 1 2 3 2 1
+inp: 
+
+currentWordLen before eval: 9
+currentWordLen after eval: 0
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: i
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: p
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp: :
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 12 16 8 9 8 5 2 1 3 3 2 1
+inp:  
+currentWordLen before eval: 12
+currentWordLen after eval: 0
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: %
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: c
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: \
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: "
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 8 5 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: p
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: ;
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 8 6 2 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: c
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: W
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 17
+currentWordLen after eval: 18
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 18
+currentWordLen after eval: 19
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: L
+currentWordLen before eval: 19
+currentWordLen after eval: 20
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 20
+currentWordLen after eval: 21
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 21
+currentWordLen after eval: 22
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 22
+currentWordLen after eval: 0
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: b
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: f
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 9 6 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp: v
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp: l
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp: :
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 9 7 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: %
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: \
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: "
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 10 7 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: )
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: ;
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 16
+currentWordLen after eval: 0
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 16 8 9 10 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 12 17 8 9 10 8 2 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 17 8 9 10 8 2 1 3 3 2 2
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 17 8 9 10 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp: '
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 12 18 8 9 10 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 12 18 8 9 11 8 2 1 3 3 2 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 18 8 9 11 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 18 8 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 12 19 8 9 11 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 19 8 9 11 8 2 1 3 3 2 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 19 8 9 11 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 19 8 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 12 19 9 9 11 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 19 9 9 11 8 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 19 9 9 11 8 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 12 19 9 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 12 19 10 9 11 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 19 10 9 11 8 2 1 3 3 2 2
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 12 19 10 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 12 20 10 9 11 8 2 1 3 3 2 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 12 20 10 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp: ,
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 13 20 10 9 11 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp: s
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 13 20 10 9 12 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 13 20 10 9 13 8 2 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 20 10 9 13 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 20 10 9 13 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 13 21 10 9 13 8 2 1 3 3 2 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 21 10 9 13 8 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 21 10 9 13 8 2 1 3 3 2 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 21 10 9 13 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 13 21 11 9 13 8 2 1 3 3 2 2
+inp: z
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 21 11 9 13 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 21 11 9 13 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 21 11 9 13 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 13 21 11 9 13 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 13 21 11 10 13 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 21 11 10 13 8 2 1 3 3 2 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 21 11 10 13 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 21 11 10 13 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: u
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: e
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp: r
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 13 21 12 10 13 8 2 1 3 3 2 2
+inp:  
+currentWordLen before eval: 7
+currentWordLen after eval: 0
+ 13 21 12 10 13 8 3 1 3 3 2 2
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 21 12 10 13 8 3 1 3 3 2 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 21 12 10 13 8 3 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: (
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: i
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp: p
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 13 22 12 10 13 8 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 13 22 12 10 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 22 12 10 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 13 22 12 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 13 23 12 10 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 13 23 12 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 14 23 12 10 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 14 23 12 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 15 23 12 10 13 9 3 1 3 3 2 2
+inp: |
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 23 12 10 13 9 3 1 3 3 2 2
+inp: |
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 23 12 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 15 24 12 10 13 9 3 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 24 12 10 13 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 24 12 10 13 9 3 1 3 3 2 2
+inp: p
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 15 24 12 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 15 24 13 10 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 24 13 10 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 24 13 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 15 25 13 10 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 25 13 10 13 9 3 1 3 3 2 2
+inp: \
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 25 13 10 13 9 3 1 3 3 2 2
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 15 25 13 10 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 15 25 13 10 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 15 25 13 11 13 9 3 1 3 3 2 2
+inp: |
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 25 13 11 13 9 3 1 3 3 2 2
+inp: |
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 25 13 11 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 15 26 13 11 13 9 3 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 26 13 11 13 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 26 13 11 13 9 3 1 3 3 2 2
+inp: p
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 15 26 13 11 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 15 26 14 11 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 26 14 11 13 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 26 14 11 13 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: \
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: '
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: )
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 15 27 14 11 13 9 3 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 15 27 14 11 14 9 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 15 27 14 11 14 9 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 15 27 14 11 14 9 3 1 3 3 2 2
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 15 27 14 11 14 9 3 1 3 3 2 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: (
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: c
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: u
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: r
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: e
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: t
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: W
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: o
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: r
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: d
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: L
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: e
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 17
+currentWordLen after eval: 0
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp: =
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 16 27 14 11 14 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 16 28 14 11 14 9 3 1 3 3 2 2
+inp:  
+currentWordLen before eval: 10
+currentWordLen after eval: 0
+ 16 28 14 11 14 9 3 1 3 4 2 2
+inp: &
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 28 14 11 14 9 3 1 3 4 2 2
+inp: &
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 16 28 14 11 14 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 14
+currentWordLen after eval: 0
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp: >
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 16 29 14 11 14 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 17 29 14 11 14 9 3 1 3 4 2 2
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 17 29 14 11 14 9 3 1 3 4 2 2
+inp: )
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 17 29 14 11 14 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: c
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 17
+currentWordLen after eval: 18
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 18
+currentWordLen after eval: 19
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 19
+currentWordLen after eval: 20
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: W
+currentWordLen before eval: 20
+currentWordLen after eval: 21
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: o
+currentWordLen before eval: 21
+currentWordLen after eval: 22
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 22
+currentWordLen after eval: 23
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: d
+currentWordLen before eval: 23
+currentWordLen after eval: 24
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: L
+currentWordLen before eval: 24
+currentWordLen after eval: 25
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 25
+currentWordLen after eval: 26
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 26
+currentWordLen after eval: 27
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 27
+currentWordLen after eval: 0
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp: -
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 17 30 14 11 14 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: 1
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: ]
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: +
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: ;
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 18 30 14 11 14 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 14
+currentWordLen after eval: 0
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 18 30 14 11 15 9 3 1 3 4 2 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 19 30 14 11 15 9 3 1 3 4 2 2
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 19 30 14 11 15 9 3 1 3 4 2 2
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 19 30 14 11 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 19 31 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 19 31 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 19 31 14 11 15 9 3 1 3 4 2 2
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 19 31 14 11 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: l
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: s
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 11 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: +
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: +
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: ;
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 17
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: b
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: u
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: g
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: g
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: i
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: g
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 20 31 14 12 15 9 3 1 3 4 2 2
+inp: 
+
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: c
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: t
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: W
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: o
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 17
+currentWordLen after eval: 18
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: d
+currentWordLen before eval: 18
+currentWordLen after eval: 19
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: L
+currentWordLen before eval: 19
+currentWordLen after eval: 20
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 20
+currentWordLen after eval: 21
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 21
+currentWordLen after eval: 22
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp:  
+currentWordLen before eval: 22
+currentWordLen after eval: 0
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: f
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 15 9 3 1 3 4 3 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp: v
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp: l
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp: :
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 16 9 3 1 3 4 3 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: %
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: \
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: "
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 17 9 3 1 3 4 3 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: W
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: r
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: d
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: L
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: n
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: )
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: ;
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: 
+
+currentWordLen before eval: 16
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: b
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: u
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp: g
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 20 31 14 12 17 10 3 1 3 4 3 2
+inp:  
+currentWordLen before eval: 7
+currentWordLen after eval: 0
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: w
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: '
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp: s
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 31 14 12 17 10 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 20 31 14 12 17 11 4 1 3 4 3 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 31 14 12 17 11 4 1 3 4 3 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 31 14 12 17 11 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: a
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: y
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: ?
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 20 32 14 12 17 11 4 1 3 4 3 2
+inp: 
+
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: (
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 20 32 14 12 17 12 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 20 32 14 12 18 12 4 1 3 4 3 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 32 14 12 18 12 4 1 3 4 3 2
+inp: 0
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 20 32 14 12 18 12 4 1 3 4 3 2
+inp: ;
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 20 32 14 12 18 12 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 20 32 15 12 18 12 4 1 3 4 3 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 20 32 15 12 18 12 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 21 32 15 12 18 12 4 1 3 4 3 2
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 21 32 15 12 18 12 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp: ;
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 22 32 15 12 18 12 4 1 3 4 3 2
+inp:  
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 22 32 15 12 18 12 4 1 3 4 4 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 22 32 15 12 18 12 4 1 3 4 4 2
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 22 32 15 12 18 12 4 1 3 4 4 2
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 22 32 15 12 18 12 4 1 3 4 4 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 22 32 15 12 18 12 4 1 3 4 4 2
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 22 32 15 13 18 12 4 1 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 22 32 15 13 18 12 4 1 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 22 32 15 13 18 12 4 1 3 4 4 2
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 22 32 15 13 18 12 4 1 3 4 4 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 23 32 15 13 18 12 4 1 3 4 4 2
+inp:  
+currentWordLen before eval: 8
+currentWordLen after eval: 0
+ 23 32 15 13 18 12 4 2 3 4 4 2
+inp: %
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 23 32 15 13 18 12 4 2 3 4 4 2
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 23 32 15 13 18 12 4 2 3 4 4 2
+inp: "
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 23 32 15 13 18 12 4 2 3 4 4 2
+inp: ,
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 23 32 15 13 18 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: i
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: ]
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: )
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: ;
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 17
+currentWordLen after eval: 0
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 23 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: \
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: "
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: )
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: ;
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 13
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 24 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 25 32 15 14 18 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 25 32 15 14 18 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 25 32 15 14 18 12 4 2 3 4 4 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 32 15 14 18 12 4 2 3 4 4 2
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 25 32 15 14 18 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp: a
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp: y
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 25 33 15 14 18 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: d
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: b
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: u
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: g
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 25 33 15 14 19 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: (
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 25 33 15 14 20 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 25 33 15 14 21 12 4 2 3 4 4 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 33 15 14 21 12 4 2 3 4 4 2
+inp: 0
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 25 33 15 14 21 12 4 2 3 4 4 2
+inp: ;
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 25 33 15 14 21 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 25 33 16 14 21 12 4 2 3 4 4 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 25 33 16 14 21 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 26 33 16 14 21 12 4 2 3 4 4 2
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 26 33 16 14 21 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp: ;
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 27 33 16 14 21 12 4 2 3 4 4 2
+inp:  
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 27 33 16 14 21 12 4 2 3 4 5 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 27 33 16 14 21 12 4 2 3 4 5 2
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 27 33 16 14 21 12 4 2 3 4 5 2
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 27 33 16 14 21 12 4 2 3 4 5 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 27 33 16 14 21 12 4 2 3 4 5 2
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 27 33 16 15 21 12 4 2 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 27 33 16 15 21 12 4 2 3 4 5 2
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 27 33 16 15 21 12 4 2 3 4 5 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 28 33 16 15 21 12 4 2 3 4 5 2
+inp:  
+currentWordLen before eval: 8
+currentWordLen after eval: 0
+ 28 33 16 15 21 12 4 3 3 4 5 2
+inp: %
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 28 33 16 15 21 12 4 3 3 4 5 2
+inp: d
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 28 33 16 15 21 12 4 3 3 4 5 2
+inp: "
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 28 33 16 15 21 12 4 3 3 4 5 2
+inp: ,
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 28 33 16 15 21 12 4 3 3 4 5 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: i
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: ]
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: )
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: ;
+currentWordLen before eval: 16
+currentWordLen after eval: 17
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: 
+
+currentWordLen before eval: 17
+currentWordLen after eval: 0
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 28 33 16 16 21 12 4 3 3 4 5 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 29 33 16 16 21 12 4 3 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 33 16 16 21 12 4 3 3 4 5 2
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 33 16 16 21 12 4 3 3 4 5 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 33 16 16 21 12 4 3 3 4 5 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 34 16 16 21 12 4 3 3 4 5 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 29 35 16 16 21 12 4 3 3 4 5 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 29 35 16 16 22 12 4 3 3 4 5 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 35 16 16 22 12 4 3 3 4 5 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 35 16 16 22 12 4 3 3 4 5 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 35 16 16 22 12 4 3 3 4 5 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: h
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: s
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: g
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: r
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: a
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp: m
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 29 35 17 16 22 12 4 3 3 4 5 2
+inp:  
+currentWordLen before eval: 9
+currentWordLen after eval: 0
+ 29 35 17 16 22 12 4 3 4 4 5 2
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 35 17 16 22 12 4 3 4 4 5 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 35 17 16 22 12 4 3 4 4 5 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 29 36 17 16 22 12 4 3 4 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 36 17 16 22 12 4 3 4 4 5 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 36 17 16 22 12 4 3 4 4 5 2
+inp: *
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 36 17 16 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 29 37 17 16 22 12 4 3 4 4 5 2
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 17 16 22 12 4 3 4 4 5 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 17 16 22 12 4 3 4 4 5 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 37 17 16 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 29 37 18 16 22 12 4 3 4 4 5 2
+inp: n
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 18 16 22 12 4 3 4 4 5 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 18 16 22 12 4 3 4 4 5 2
+inp: w
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 37 18 16 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 29 37 19 16 22 12 4 3 4 4 5 2
+inp: j
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 19 16 22 12 4 3 4 4 5 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 19 16 22 12 4 3 4 4 5 2
+inp: s
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 37 19 16 22 12 4 3 4 4 5 2
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 29 37 19 16 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 29 37 19 17 22 12 4 3 4 4 5 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 19 17 22 12 4 3 4 4 5 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 19 17 22 12 4 3 4 4 5 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 37 19 17 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp: a
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp: y
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 29 37 20 17 22 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 29 37 20 17 23 12 4 3 4 4 5 2
+inp: *
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 37 20 17 23 12 4 3 4 4 5 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 37 20 17 23 12 4 3 4 4 5 2
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: (
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp: i
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 29 38 20 17 23 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 29 38 20 17 24 12 4 3 4 4 5 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 29 38 20 17 24 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 30 38 20 17 24 12 4 3 4 4 5 2
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 30 38 20 17 24 12 4 3 4 4 5 2
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 30 38 20 17 24 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 30 39 20 17 24 12 4 3 4 4 5 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 30 39 20 17 24 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 31 39 20 17 24 12 4 3 4 4 5 2
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 31 39 20 17 24 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: x
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: W
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: o
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: r
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: d
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: L
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: e
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp: ;
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 32 39 20 17 24 12 4 3 4 4 5 2
+inp:  
+currentWordLen before eval: 11
+currentWordLen after eval: 0
+ 32 39 20 17 24 12 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 32 39 20 17 24 12 4 3 4 4 6 2
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 32 39 20 17 24 12 4 3 4 4 6 2
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 32 39 20 17 24 12 4 3 4 4 6 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 32 39 20 17 24 12 4 3 4 4 6 2
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 32 39 20 18 24 12 4 3 4 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 32 39 20 18 24 12 4 3 4 4 6 2
+inp: {
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 32 39 20 18 24 12 4 3 4 4 6 2
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 33 39 20 18 24 12 4 3 4 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 33 39 20 18 24 12 4 3 4 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 33 39 20 18 24 12 4 3 4 4 6 2
+inp: /
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 39 20 18 24 12 4 3 4 4 6 2
+inp: /
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 33 39 20 18 24 12 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 33 40 20 18 24 12 4 3 4 4 6 2
+inp: j
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 40 20 18 24 12 4 3 4 4 6 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 33 40 20 18 24 12 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 33 40 20 18 24 12 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 33 40 20 18 24 12 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 33 40 20 19 24 12 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 33 40 20 19 25 12 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 40 20 19 25 12 4 3 4 4 6 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 33 40 20 19 25 12 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 33 40 20 19 25 12 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: x
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 33 40 21 19 25 12 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 33 40 21 19 25 13 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 33 40 21 19 25 13 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: p
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: c
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp: ,
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 34 40 21 19 25 13 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 34 40 21 19 25 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 40 21 19 25 14 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 40 21 19 25 14 4 3 4 4 6 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 40 21 19 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 34 40 22 19 25 14 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 40 22 19 25 14 4 3 4 4 6 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 40 22 19 25 14 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 40 22 19 25 14 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 40 22 19 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 34 40 22 20 25 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 40 22 20 25 14 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 40 22 20 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 34 41 22 20 25 14 4 3 4 4 6 2
+inp: m
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 41 22 20 25 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 41 22 20 25 14 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 41 22 20 25 14 4 3 4 4 6 2
+inp: y
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 41 22 20 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 34 41 22 21 25 14 4 3 4 4 6 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 41 22 21 25 14 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 41 22 21 25 14 4 3 4 4 6 2
+inp: p
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 41 22 21 25 14 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 41 22 21 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp: c
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp: r
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 41 22 22 25 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 34 41 22 22 26 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 41 22 22 26 14 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 41 22 22 26 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 34 42 22 22 26 14 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 22 22 26 14 4 3 4 4 6 2
+inp: h
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 22 22 26 14 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 22 22 26 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 34 42 23 22 26 14 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 23 22 26 14 4 3 4 4 6 2
+inp: u
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 23 22 26 14 4 3 4 4 6 2
+inp: m
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 23 22 26 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 3
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: n
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: d
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: i
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: c
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: a
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: t
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: e
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp: s
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 34 42 24 22 26 14 4 3 4 4 6 2
+inp:  
+currentWordLen before eval: 9
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: %
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: d
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: \
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: "
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: ,
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 14
+currentWordLen after eval: 0
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: i
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: 1
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: ;
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 42 24 22 26 14 4 3 5 4 6 2
+inp: 
+
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: f
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: o
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: r
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: (
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp: j
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 34 42 24 22 27 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 5
+currentWordLen after eval: 0
+ 34 42 24 22 28 14 4 3 5 4 6 2
+inp: =
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 34 42 24 22 28 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 35 42 24 22 28 14 4 3 5 4 6 2
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 35 42 24 22 28 14 4 3 5 4 6 2
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 35 42 24 22 28 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 35 43 24 22 28 14 4 3 5 4 6 2
+inp: j
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 35 43 24 22 28 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 36 43 24 22 28 14 4 3 5 4 6 2
+inp: <
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 36 43 24 22 28 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: l
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: n
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: g
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: h
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: s
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: C
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: o
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: u
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: n
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: t
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: [
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: i
+currentWordLen before eval: 13
+currentWordLen after eval: 14
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: ]
+currentWordLen before eval: 14
+currentWordLen after eval: 15
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: ;
+currentWordLen before eval: 15
+currentWordLen after eval: 16
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp:  
+currentWordLen before eval: 16
+currentWordLen after eval: 0
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: j
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: +
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: +
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: )
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 37 43 24 22 28 14 4 3 5 4 6 2
+inp: 
+
+currentWordLen before eval: 4
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: |
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: "
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: )
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: ;
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 37 43 24 23 28 14 4 3 5 4 6 2
+inp: 
+
+currentWordLen before eval: 12
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: p
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: r
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: i
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: n
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: t
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: f
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: (
+currentWordLen before eval: 6
+currentWordLen after eval: 7
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: "
+currentWordLen before eval: 7
+currentWordLen after eval: 8
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: \
+currentWordLen before eval: 8
+currentWordLen after eval: 9
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: n
+currentWordLen before eval: 9
+currentWordLen after eval: 10
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: "
+currentWordLen before eval: 10
+currentWordLen after eval: 11
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: )
+currentWordLen before eval: 11
+currentWordLen after eval: 12
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: ;
+currentWordLen before eval: 12
+currentWordLen after eval: 13
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 13
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 37 43 24 23 28 14 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: 	
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: r
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: e
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: t
+currentWordLen before eval: 2
+currentWordLen after eval: 3
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: u
+currentWordLen before eval: 3
+currentWordLen after eval: 4
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: r
+currentWordLen before eval: 4
+currentWordLen after eval: 5
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp: n
+currentWordLen before eval: 5
+currentWordLen after eval: 6
+ 38 43 24 23 28 14 4 3 5 4 6 3
+inp:  
+currentWordLen before eval: 6
+currentWordLen after eval: 0
+ 38 43 24 23 28 15 4 3 5 4 6 3
+inp: 0
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 38 43 24 23 28 15 4 3 5 4 6 3
+inp: ;
+currentWordLen before eval: 1
+currentWordLen after eval: 2
+ 38 43 24 23 28 15 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 2
+currentWordLen after eval: 0
+ 38 44 24 23 28 15 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 38 44 24 23 28 15 4 3 5 4 6 3
+inp: }
+currentWordLen before eval: 0
+currentWordLen after eval: 1
+ 38 44 24 23 28 15 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 1
+currentWordLen after eval: 0
+ 39 44 24 23 28 15 4 3 5 4 6 3
+inp: 
+
+currentWordLen before eval: 0
+currentWordLen after eval: 0
+ 39 44 24 23 28 15 4 3 5 4 6 3
+1	|||||||||||||||||||||||||||||||||||||||
+2	||||||||||||||||||||||||||||||||||||||||||||
+3	||||||||||||||||||||||||
+4	|||||||||||||||||||||||
+5	||||||||||||||||||||||||||||
+6	|||||||||||||||
+7	||||
+8	|||
+9	|||||
+10	||||
+11	||||||
+12	|||

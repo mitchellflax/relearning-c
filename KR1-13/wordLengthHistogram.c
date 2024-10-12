@@ -20,6 +20,10 @@ int main()
 	/* build the array */
 	while((inp = getchar()) != EOF)
 	{
+		// debugging
+		printf("inp: %c\n", inp);
+		printf("currentWordLen before eval: %d\n", currentWordLen);
+
 		/* if we're at the end of a word, store it and zero the counter */
 		if(inp == ' ' || inp == '\t' || inp == '\n')
 		{
@@ -30,6 +34,16 @@ int main()
 
 		else
 			currentWordLen++;
+
+		//debugging
+		printf("currentWordLen after eval: %d\n", currentWordLen);
+
+		//debug what's in array?
+		for(i =0; i < maxWordLen; i++)
+		{
+			printf(" %d", lengthsCount[i]);
+		}
+		printf("\n");
 
 	}
 
