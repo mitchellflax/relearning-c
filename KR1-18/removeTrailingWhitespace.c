@@ -59,6 +59,8 @@ int main()
 
 	} 
 
+	return 0;
+
 }
 
 void dumpBuffer(int myBuff[], int numChars)
