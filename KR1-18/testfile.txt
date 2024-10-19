@@ -1,0 +1,6 @@
+hello                       world           						
+the space above should be intact, but not the trailing chars
+                                                
+
+there should be just one line above
+
