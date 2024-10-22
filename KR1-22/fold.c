@@ -34,10 +34,9 @@ int main()
 			// reset the cursor
 			cursor = cursor - lastblank;
 
-			// write a newline and then bring whatever we didn't write to the front of the buffer
-			// TODO: figure out what's happening here
-			// if I delete this newline bit, we lose the wraparounds; WHY?
-			putchar('\n');
+			// write a newline if the character itself is not one, and then bring whatever we didn't write to the front of the buffer
+			if (c != '\n')
+				putchar('\n');
 			for (i = 0; i < cursor; i++)
 				line_buffer[i] = line_buffer[lastblank + i];
 
