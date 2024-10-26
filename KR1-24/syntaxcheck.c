@@ -5,7 +5,7 @@ int main()
 	// let's track all the main syntax items
 	int c, prev_char, open_parens, close_parens, open_curlies, close_curlies, open_squackets, close_squackets, open_mlcomments, close_mlcomments, ticks, quotes;
 	// chars as booleans
-	char inString, commentPossible, inMultilineComment, inLineComment;
+	char inString, inMultilineComment, inLineComment;
 
 	open_parens = 0;
 	close_parens = 0;
@@ -21,7 +21,6 @@ int main()
 	inString = 0;
 	inMultilineComment = 0;
 	inLineComment = 0;
-	commentPossible = 0;
 	
 	// go through the file and count them	
 	while ((c = getchar()) != EOF)
@@ -30,7 +29,7 @@ int main()
 		/* if you get into a string, you're not out till you close the quotes
 		 * and we need to know if you're in a string because if so
 		 * we're not counting the special chars except the unescaped quotes */
-		if (c == '"' && inString == 0 && prev_char != '\\' && inMultilineComment == 0 && inLineComment == 0)
+		if (c == '"' && inString == 0 && prev_char != '\\' && prev_char != '\'' && inMultilineComment == 0 && inLineComment == 0)
 			inString = 1;
 
 		else if (c == '"' && inString == 1 && prev_char != '\\' && inMultilineComment == 0 && inLineComment == 0)
@@ -39,8 +38,6 @@ int main()
 		// here in the next ifs we figure out if we're in a comment
 		if (c == '/' && inString == 0)
 		{
-			commentPossible = 1;
-
 			if (prev_char == '/')
 			{
 				// turns out we're in a comment
@@ -76,10 +73,10 @@ int main()
 			inLineComment = 0;
 		}
 
-		// ok now we can use everything we've tested to decide whether to count this character
+		//debugging
+		// printf("c is %c, inString is %d, inLineComment is %d, inMultilineComment is %d\n", c, inString, inLineComment, inMultilineComment);
 
-		// let's keep this for debugging till later
-		// printf("\nDebug: c is %c, prev_char is %c, commentPossible is %d, inLineComment is %d, inMultilineComment is %d, inString is %d\n", c, prev_char, commentPossible, inLineComment, inMultilineComment, inString);
+		// ok now we can use everything we've tested to decide whether to count this character
 
 		if (c == '(' && inString == 0 && inLineComment == 0 && inMultilineComment == 0)
 			open_parens++;
@@ -95,7 +92,8 @@ int main()
 			close_squackets++;
 		if (c == '\'' && prev_char != '\\' && inString == 0 && inLineComment == 0 && inMultilineComment == 0)
 			ticks++;
-		if (c == '"' && prev_char != '\\' && inString == 0 && inLineComment == 0 && inMultilineComment == 0)
+		// note that we're not going to test inString-edness for quotation marks
+		if (c == '"' && prev_char != '\\' && prev_char != '\'' && inLineComment == 0 && inMultilineComment == 0)
 			quotes++;
 
 		// store the previous char for all the possible testing for comments
