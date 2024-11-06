@@ -56,6 +56,24 @@ int invert(int x, int p, int n)
 
 }
 
+int rightrot(int x, int n)
+{
+	// store the rightmost n bits
+	int i, positionbits, rightnstore;
+
+	positionbits = 0;
+	for (i = 0; i < n; i++)
+		positionbits += pow(2,i);
+
+	rightnstore = x & positionbits;
+	rightnstore = rightnstore << (CHAR_BIT*sizeof(int) - n);
+
+	x = x >> n;
+
+	return (rightnstore | x);
+
+}
+
 /* implements and tests bitwise operation functions */
 int main()
 {
@@ -83,6 +101,14 @@ int main()
 	myx = invert(myx, myp, myn); 
 	printf("The resulting invert() transformation of x is %d.\n", myx);
 
+	// test rightrot
+	myx = 1479;
+	myn = 4;
+
+	printf("\nTesting rightrot() function:\n");
+	printf("My x is %d, using n of %d\n", myx, myn);
+	myx = rightrot(myx, myn);
+	printf("The resulting rightrot() transformation of x is %d.\n", myx);
 
 }
 
