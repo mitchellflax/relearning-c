@@ -13,9 +13,9 @@ int bitcount (unsigned x)
 	 * which becomes 0.
 	 *
 	 * If x is even, its rightmost bit is 0.
-	 * If another bit is 1, if x is negative or if x is nonzero, 
-	 * then given that the rightmost '1' bit is in the 2^n position of x
-	 * then (x-1) contains a '0' bit in the 2^n position and '1' bits in positions
+	 * If another bit is 1 (if x is nonzero), 
+	 * then given that the rightmost 1 bit is in the 2^n position of x
+	 * then (x-1) contains a 0 bit in the 2^n position and 1 bits in positions
 	 * 2^(n-1) ... 2^0. The & operation of the 0s in x from the 2^(n-1) position
 	 * and the 1s in (x-1) from the same position all yield 0 in the (x & (x-1)) operation.
 	 * Likewise, the 1 in x's 2^n position and the 0 in (x-1)'s 2^n position yields 0.
